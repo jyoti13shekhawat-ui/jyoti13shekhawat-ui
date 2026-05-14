@@ -49,14 +49,6 @@ Authored end-to-end BRDs and process maps for a logistics delivery platform. Val
 
 ---
 
-## 📈 GitHub Stats
-
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyoti13shekhawat-ui&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti13shekhawat-ui&layout=compact&hide_border=true&theme=default)
-English Hindi
-
----
 
 ## 🎓 Education & Currently Learning
 
